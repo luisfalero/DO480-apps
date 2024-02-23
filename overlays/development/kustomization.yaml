@@ -1,0 +1,5 @@
+bases:
+  - ../../base
+
+rerouces:
+  - dbclaim-pvc.yaml
